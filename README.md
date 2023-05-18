@@ -30,7 +30,7 @@ The Online Drum Kit utilizes the following technologies:
 - JavaScript: For implementing the interactivity and functionality of the drum kit, including drum sound playback and keyboard event handling.
 
 ## Demo
-Here is a demo of the Online Drum Kit. You can try it out by following this link - drumkit.me
+Here is a demo of the Online Drum Kit. You can try it out by following this link - [drumkit.me](https://drumkit.me/)
 
 ## Contributing
 
